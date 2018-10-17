@@ -24,7 +24,10 @@ MODE_NAMES = {
     18 : 'Throw\0',
     19 : 'ADS-B AVOID\0',
     20 : 'GUIDED NO GPS\0',
-    21 : 'SMART RTL\0', 
+    21 : 'SMART RTL\0',
+    22 : 'Flow Hold\0',
+    23 : 'Follow\0',
+    24 : 'Zig Zag\0',
     }
 
 # DroneKit uses APM's mode names.  Here is a helper function to
